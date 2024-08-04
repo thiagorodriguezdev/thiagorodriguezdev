@@ -1,14 +1,13 @@
 <!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World 🤓</h1></summary>
-</div>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+me+chamo+Thiago!;" />
+</h1>
 
 ---
 
 <!-- Presentation -->
 <p>
-  Olá 👋, Sou o Thiago! Um apaixonado estudante de Front-end.
+  Olá 👋, Sou um apaixonado estudante de Front-end.
 
   - 🌱 Atualmente estou estudando HTML e CSS.
 
@@ -26,16 +25,12 @@
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
-    <h3>Languages</h3>
+    <h3>Linguagens - Frameworks - Ferramentas </h3>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <!--<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Thiago-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt=GitHub height="30" widtch="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   </div>
+  
