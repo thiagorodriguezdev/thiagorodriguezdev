@@ -16,7 +16,7 @@
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/euthiagorodriguez/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-rodriguez-a0a566217/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagodriguezdev/)
 
 <!-- GithubStats -->
 ![Thiagorodriguezdev GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagorodriguezdev&show_icons=true&theme=dracula)
