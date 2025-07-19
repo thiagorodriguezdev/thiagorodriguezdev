@@ -7,11 +7,11 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, Sou um apaixonado estudante de Front-end.
+  Olá 👋, Sou um apaixonado estudante Full-Stack.
 
-  - 🌱 Atualmente estou estudando HTML e CSS.
+  - 🌱 Atualmente estou estudando HTML, CSS e JavaScript.
 
-  - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar como Desenvolvedor Front-end.
+  - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar como Desenvolvedor Full-Stack.
 </p>
 
 <!-- Links -->
